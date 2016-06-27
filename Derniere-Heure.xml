@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Dernier Heure template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>DERNIERE HEURE</head>
+                <p>(Clôture de la Bourse Khédiviale 1h. p.m.) </p>
+                <p>Cours de l’Association des Courtiers en Marchandises </p>
+                <table cols="5">
+                    <row role="label">
+                        <cell>Coton F.G.F.Br.</cell>
+                    </row>
+                    <row>
+                        <cell>Novembre</cell>
+                        <cell>Tal.</cell>
+                        <cell>14 15/16 </cell>
+                        <cell>à</cell>
+                        <cell>— 31/32</cell>
+                    </row>
+                    <row>
+                        <cell>Janvier</cell>
+                        <cell>"</cell>
+                        <cell>14 27/32</cell>
+                        <cell>"</cell>
+                        <cell> — 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>Mars</cell>
+                        <cell>"</cell>
+                        <cell>15 1/16</cell>
+                        <cell>"</cell>
+                        <cell>— —</cell>
+                    </row>
+                    <row>
+                        <cell>Juillet</cell>
+                        <cell>"</cell>
+                        <cell>15 7/32</cell>
+                        <cell>"</cell>
+                        <cell> — ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Août</cell>
+                        <cell>"</cell>
+                        <cell>15 17/32</cell>
+                        <cell>"</cell>
+                        <cell> — 9/16</cell>
+                    </row>
+                    <row role="label">
+                        <cell>Graines de coton</cell>
+                    </row>
+                    <row>
+                        <cell>N.-D.-J. </cell>
+                        <cell>"</cell>
+                        <cell>61 10/40 </cell>
+                        <cell>à</cell>
+                        <cell>— 20/40</cell>
+                    </row>
+                    <row>
+                        <cell>Juillet</cell>
+                        <cell>"</cell>
+                        <cell>59 —</cell>
+                        <cell>"</cell>
+                        <cell>– –</cell>
+                    </row>
+                    <row>
+                        <cell>Août</cell>
+                        <cell> "</cell>
+                        <cell>59 30/40</cell>
+                        <cell>"</cell>
+                        <cell>—35/40</cell>
+                    </row>
+                    <row role="label">
+                        <cell>Fèves-Saïdi</cell>
+                    </row>
+                    <row>
+                        <cell>Sept-Oct.</cell>
+                        <cell>P.T.</cell>
+                        <cell>95—</cell>
+                        <cell>à</cell>
+                        <cell> — ½</cell>
+                    </row>
+                </table>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

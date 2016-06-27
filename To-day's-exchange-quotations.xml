@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">To-day's exchange quotations template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>TO-DAY’S EXCHANGE QUOTATIONS</head>
+                <table rows="14" cols="3">
+                    <row role="label">
+                        <cell> </cell>
+                        <cell>Banks' buying</cell>
+                        <cell>Banks' selling* </cell>
+                    </row>
+                    <row>
+                        <cell>London cheque</cell>
+                        <cell>97 9/16</cell>
+                        <cell>97 15/16</cell>
+                    </row>
+                    <row>
+                        <cell>" 3m. bank paper</cell>
+                        <cell>97 1/16</cell>
+                        <cell>97 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>" 3m. house paper</cell>
+                        <cell>96 15/16</cell>
+                        <cell>— —</cell>
+                    </row>
+                    <row>
+                        <cell>Paris cheque</cell>
+                        <cell>388 —</cell>
+                        <cell>389 ½</cell>
+                    </row>
+                    <row>
+                        <cell>" 3m. bank paper</cell>
+                        <cell>386 ¼</cell>
+                        <cell>387 ½</cell>
+                    </row>
+                    <row>
+                        <cell>" 3m. house paper</cell>
+                        <cell>385 ¾</cell>
+                        <cell>— —</cell>
+                    </row>
+                    <row>
+                        <cell>Switzerland cheque</cell>
+                        <cell>386 ½</cell>
+                        <cell>388 ¾</cell>
+                    </row>
+                    <row>
+                        <cell>3m. bank paper</cell>
+                        <cell>384 — </cell>
+                        <cell> — —</cell>
+                    </row>
+                    <row>
+                        <cell>Germany cheque</cell>
+                        <cell>476 ¼</cell>
+                        <cell>478 —</cell>
+                    </row>
+                    <row>
+                        <cell>" 3m bank paper </cell>
+                        <cell>473 ¼</cell>
+                        <cell>— — </cell>
+                    </row>
+                    <row>
+                        <cell>Italian cheque</cell>
+                        <cell>388 — </cell>
+                        <cell>390 —  </cell>
+                    </row>
+                    <row>
+                        <cell>Vienna &amp; Trieste cheque</cell>
+                        <cell>406 — </cell>
+                        <cell>407 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Constantinople cheque</cell>
+                        <cell>88 7/8</cell>
+                        <cell>89 5/16</cell>
+                    </row>
+                </table>
+                <p> *Less one per mille brokerage.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

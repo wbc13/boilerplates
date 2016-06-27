@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Eastern Telegraph Col. template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>EASTERN TELEGRAPH CO. LTD.</head>
+                <p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England to
+                    Alexandria on Tuesday, 11th July, 1905. </p>
+                <p>OUTWARDS.</p>
+                <p>Between the hours of 10 a.m. and 6 p.m. (Cairo time)</p>
+                <table rows="6" cols="3">
+                    <row role="label">
+                        <cell>FROM</cell>
+                        <cell>MESSAGES HANDED IN AT The Company’s Offices. H. M.</cell>
+                        <cell>MESSAGES HANDED IN AT Postal Telegraph Offices. H. M.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>—</cell>
+                        <cell>—</cell>
+                    </row>
+                    <row>
+                        <cell>Liverpool</cell>
+                        <cell>—</cell>
+                        <cell>—</cell>
+                    </row>
+                    <row>
+                        <cell>Manchester</cell>
+                        <cell>—</cell>
+                        <cell>—</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>—</cell>
+                        <cell>—</cell>
+                    </row>
+                    <row>
+                        <cell>Other Provincial Offices</cell>
+                        <cell>—</cell>
+                        <cell>—</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

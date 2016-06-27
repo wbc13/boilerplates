@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Telegramme Havas template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>TELEGRAMME HAVAS</head>
+                <dateline>BOURSE du 11 juillet 1905</dateline>
+                <p>COURS DES VALEURS A TERMS, CLOTURE</p>
+                <table cols="3">
+                    <row role="label"><cell>PARIS</cell></row>
+                    <row>
+                        <cell>Rente Française 3 %</cell>
+                        <cell>Fr.</cell>
+                        <cell>99 17</cell>
+                    </row>
+                    <row>
+                        <cell>Actions de Suez</cell>
+                        <cell>"</cell>
+                        <cell>4440 -</cell>
+                    </row>
+                    <row>
+                        <cell>Lots Turcs</cell>
+                        <cell>"</cell>
+                        <cell>132 5- </cell>
+                    </row>
+                    <row>
+                        <cell>Turc Unifié</cell>
+                        <cell>" </cell>
+                        <cell>89 20</cell>
+                    </row>
+                    <row>
+                        <cell>Dette Egyptienne Unifié</cell>
+                        <cell>"</cell>
+                        <cell>107 40</cell>
+                    </row>
+                    <row>
+                        <cell>Daïra Sanieh</cell>
+                        <cell>"</cell>
+                        <cell>102 ---</cell>
+                    </row>
+                    <row>
+                        <cell>Crédit Foncier Egyptien</cell>
+                        <cell>"</cell>
+                        <cell>840 ---</cell>
+                    </row>
+                    <row>
+                        <cell>Extérieur espagnol</cell>
+                        <cell>"</cell>
+                        <cell>90 47</cell>
+                    </row>
+                    <row>
+                        <cell>Obl. Banque Nat. de Grèce</cell>
+                        <cell>"</cell>
+                        <cell>428 --</cell>
+                    </row>
+                    <row>
+                        <cell>Banque d’Athènes, nouvelles actions</cell>
+                        <cell>"</cell>
+                        <cell>124 ½</cell>
+                    </row>
+                    <row>
+                        <cell>Métropolitain</cell>
+                        <cell>"</cell>
+                        <cell>- -</cell>
+                    </row>
+                    <row>
+                        <cell>Russe consolidé</cell>
+                        <cell>"</cell>
+                        <cell>85 60</cell>
+                    </row>
+                    <row>
+                        <cell>Sosnowice</cell>
+                        <cell>"</cell>
+                        <cell>--</cell>
+                    </row>
+                    <row>
+                        <cell>Change sur Londres</cell>
+                        <cell>"</cell>
+                        <cell>25 15 ½</cell>
+                    </row>
+                    <row>
+                        <cell>Sucre No 3 disponible</cell>
+                        <cell>"</cell>
+                        <cell>--- ---</cell>
+                    </row>
+                    <row>
+                        <cell>Sucre No 3 livrable le 4 de mars</cell>
+                        <cell>"</cell>
+                        <cell>--- ---</cell>
+                    </row>
+                    <row role="label"><cell>LONDRES</cell> </row>
+                    <row>
+                        <cell>Consolidés anglais</cell>
+                        <cell>£</cell>
+                        <cell>90 ¼</cell>
+                    </row>
+                </table>
+                <p>Escomptes---Paris 3, Londres 2 ½, Berlin 3 </p>
+            </div>
+        </body>
+    </text>
+</TEI>

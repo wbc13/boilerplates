@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Reuter's Telegrams template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>REUTER'S TELEGRAMS</head>
+                <head type="sub">CLOSING REPORTS</head>
+                
+                <table cols="2">
+                    <row role="label">
+                        <cell>Liverpool, July 11, 12.55 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Sales of the day</cell>
+                        <cell>bales 4,000</cell>
+                    </row>
+                    <row>
+                        <cell>of which Egyptian</cell>
+                        <cell>" 300</cell>
+                    </row>
+                    <row>
+                        <cell>American (new crop) Maize Spot per cental</cell>
+                        <cell>5/2 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Amer. futures (August-Sept.)</cell>
+                        <cell>5.99</cell>
+                    </row>
+                    <row>
+                        <cell> " " (Dec.-Jan.)</cell>
+                        <cell>5.99</cell>
+                    </row>
+                    <row>
+                        <cell>American Middling</cell>
+                        <cell>6/12</cell>
+                    </row>
+                    <row>
+                        <cell>Egypt. fully good fair, delivery (July)</cell>
+                        <cell>7 52/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (August)</cell>
+                        <cell>7 52/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (Oct.) </cell>
+                        <cell>7 49/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (Nov.)</cell>
+                        <cell>7 46/64</cell>
+                    </row>
+                    <row>
+                        <cell>Egypt. Brown fair per lb. d.</cell>
+                        <cell>6 13/16</cell>
+                    </row>
+                    <row>
+                        <cell> " " good fair</cell>
+                        <cell>7 9/16</cell>
+                    </row>
+                    <row>
+                        <cell> " " good</cell>
+                        <cell>8 7/16</cell>
+                    </row>
+                    <row>
+                        <cell> " fully good fair</cell>
+                        <cell>7 14/16</cell>
+                    </row>
+                    <row>
+                        <cell>Egyptian Saidi Beans new (per 480 lbs.)</cell>
+                        <cell>30/3</cell>
+                    </row>
+                    <row role="label">
+                        <cell>London, July 11</cell>
+                    </row>
+                    <row>
+                        <cell>Consols (August)</cell>
+                        <cell>90 1/8</cell>
+                    </row>
+                    <row>
+                        <cell>Egyptian Unified</cell>
+                        <cell>105 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Private Discount on bill</cell>
+                        <cell>1 7/8%</cell>
+                    </row>
+                    
+                    <row role="label">
+                        <cell>New-York, July 11</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>Spot Cotton... </cell>
+                        <cell>11.--</cell>
+                    </row>
+                    <row>
+                        <cell>American Futures (August)</cell>
+                        <cell>10.82</cell>
+                    </row>
+                    <row>
+                        <cell> " " (September)</cell>
+                        <cell>10.87</cell>
+                    </row>
+                    <row>
+                        <cell> " " (December)</cell>
+                        <cell>11.06</cell>
+                    </row>
+                    <row>
+                        <cell> " " (January)</cell>
+                        <cell>11.09</cell>
+                    </row>
+                    <row>
+                        <cell>Cable transfers</cell>
+                        <cell>dol. 4.87</cell>
+                    </row>
+                    <row>
+                        <cell>Cotton day’s receipts at all U.-S. Ports</cell>
+                        <cell>bales 22,00</cell>
+                    </row>
+                    
+                    
+                    <row role="label">
+                        <cell>Liverpool, July 11</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>American futures (August-September)</cell>
+                        <cell>5.90</cell>
+                    </row>
+                    <row>
+                        <cell>Egypt fully good fair, delivery(July)</cell>
+                        <cell>7 53/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (Aug.)</cell>
+                        <cell>7 53/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (Oct.)</cell>
+                        <cell>7 52/64</cell>
+                    </row>
+                    <row>
+                        <cell>" " " " " (Nov.)</cell>
+                        <cell>7 48/64</cell>
+                    </row>
+                    
+                    <row role="label">
+                        <cell>London, July 11</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>Private discount (3 month bills)</cell>
+                        <cell>1 7/8 %</cell>
+                    </row>
+                    <row>
+                        <cell>Bar Silver (per oz d.)</cell>
+                        <cell>27 2/16</cell>
+                    </row>
+                    <row>
+                        <cell>Consols (August)</cell>
+                        <cell>90 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Rio Tinto</cell>
+                        <cell>63 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>Rand Mines New</cell>
+                        <cell> 9 --</cell>
+                    </row>
+                    <row>
+                        <cell> Egyptian Unified</cell>
+                        <cell>105 ¼</cell>
+                    </row>
+                    <row>
+                        <cell> " Railway</cell>
+                        <cell>102 —</cell>
+                    </row>
+                    <row>
+                        <cell> " Domain</cell>
+                        <cell> 104 —</cell>
+                    </row>
+                    <row>
+                        <cell>Ottoman Defence</cell>
+                        <cell>103 ½</cell>
+                    </row>
+                    <row>
+                        <cell>Turkish Unified</cell>
+                        <cell>88 --</cell>
+                    </row>
+                    <row>
+                        <cell>Italian Rents 4%</cell>
+                        <cell>104 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Ottoman Bank</cell>
+                        <cell>13 ¾</cell>
+                    </row>
+                    <row>
+                        <cell>National Bank of Egypt</cell>
+                        <cell>26 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>Daira Sanieh</cell>
+                        <cell>101 ½</cell>
+                    </row>
+                    <row>
+                        <cell>New Daira</cell>
+                        <cell>28 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Greek Monopole</cell>
+                        <cell>52 ¼</cell>
+                    </row>
+                    <row>
+                        <cell>Greek Rent 4%</cell>
+                        <cell>41 ½</cell>
+                    </row>
+                    <row>
+                        <cell>Chartereds of S. Africa</cell>
+                        <cell>1 13/16</cell>
+                    </row>
+                    <row>
+                        <cell>Agrioultural Bank</cell>
+                        <cell>13 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>New Egyptians</cell>
+                        <cell>1 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>Nile Valley Gold Mine. New</cell>
+                        <cell>1 --</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>The Western Oasis Corporation 1/2 premium Delta Light (Bearer
+                            shares) </cell>
+                        <cell>12 ½ to 13 —</cell>
+                    </row>
+                    <row>
+                        <cell>Egypt, cot. seed to Hull (July)</cell>
+                        <cell>5 12/16 nominal</cell>
+                    </row>
+                    <row>
+                        <cell>German Beet Sugar (July) </cell>
+                        <cell>10/1¼</cell>
+                    </row>
+                    <row role="label">
+                        <cell>Paris, July 11</cell>
+                    </row>
+                    <row>
+                        <cell>Lots Turcs</cell>
+                        <cell>132 —</cell>
+                    </row>
+                    <row>
+                        <cell>Crédit Lyonnais</cell>
+                        <cell>1091 —</cell>
+                    </row>
+                    <row>
+                        <cell>Ottoman Bank</cell>
+                        <cell>594 —</cell>
+                    </row>
+                    <row>
+                        <cell>Cheques on London</cell>
+                        <cell>25.15½</cell>
+                    </row>
+                    <row>
+                        <cell>Sugar White No. 3 (July)</cell>
+                        <cell>30 ½</cell>
+                    </row>
+                    <row>
+                        <cell>Crédit Foncier Egyptien</cell>
+                        <cell>814 —</cell>
+                    </row>
+                    <row>
+                        <cell>Banque d'Athènes</cell>
+                        <cell>124 —</cell>
+                    </row>
+                    <row>
+                        <cell>Land Bank of Egypt</cell>
+                        <cell>240 —</cell>
+                    </row>
+                </table>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
