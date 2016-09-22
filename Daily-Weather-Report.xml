@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-01">September 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Daily Weather Report template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" scope="weather">
+                <head>DAILY WEATHER REPORT</head>
+                <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
+                <div type="subsection">
+                    <head>ALEXANDRIA</head>
+                    <table rows="7" cols="2">
+                        <row>
+                            <cell>Direction of wind</cell>
+                            <cell>N.W.</cell>
+                        </row>
+                        <row>
+                            <cell>Force " "</cell>
+                            <cell>Light</cell>
+
+                        </row>
+                        <row>
+                            <cell>State of Sea</cell>
+                            <cell>Slight</cell>
+                        </row>
+                        <row>
+                            <cell>During 24 hours ending ? a.m. Max Temp in the shade</cell>
+                            <cell>29.0</cell>
+                        </row>
+                        <row>
+                            <cell>" Min. do. do.</cell>
+                            <cell>21.3</cell>
+                        </row>
+                        <row>
+                            <cell>" Humidity</cell>
+                            <cell>76.6</cell>
+                        </row>
+                        <row>
+                            <cell>" Rainfall</cell>
+                            <cell>---</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <head>REMARKS.</head>
+                    <p>Yesterday opened with a light breeze from the N.N.E. but towards noon the
+                        wind suddenly changed to the N.N.W. The day was rather warm, but becme
+                        beautifully cool in the evening. Barometer steady.</p>
+                </div>
+                <div type="subsection">
+                    <head>OTHER STATIONS.</head>
+                    <p>For the 24 hours ending 3 a.m. Yesterday</p>
+                    <table cols="3">
+                        <row role="label">
+                            <cell>Stations.</cell>
+                            <cell>Max. temp. in the shade.</cell>
+                            <cell>Min temp. in the shade.</cell>
+                        </row>
+                        <row>
+                            <cell>Port Said</cell>
+                            <cell>30</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Suez</cell>
+                            <cell>39</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Cairo Halouan</cell>
+                            <cell>39</cell>
+                            <cell>22</cell>
+                        </row>
+                        <row>
+                            <cell>Cairo Ghizeh</cell>
+                            <cell>40</cell>
+                            <cell>21</cell>
+                        </row>
+                        <row>
+                            <cell>Assiout</cell>
+                            <cell>41</cell>
+                            <cell>21</cell>
+                        </row>
+                        <row>
+                            <cell>Assouan</cell>
+                            <cell>44</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Wady Halfa</cell>
+                            <cell>41</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Marowe</cell>
+                            <cell>41</cell>
+                            <cell>28</cell>
+                        </row>
+                        <row>
+                            <cell>Berber</cell>
+                            <cell>42</cell>
+                            <cell>26</cell>
+                        </row>
+                        <row>
+                            <cell>Suakin</cell>
+                            <cell>43</cell>
+                            <cell>30</cell>
+                        </row>
+                        <row>
+                            <cell>Khartoum</cell>
+                            <cell>---</cell>
+                            <cell>---</cell>
+                        </row>
+                        <row>
+                            <cell>Wad Medani</cell>
+                            <cell>---</cell>
+                            <cell>---</cell>
+                        </row>
+                        <row>
+                            <cell>Duam</cell>
+                            <cell>---</cell>
+                            <cell>---</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <head>FOREIGN STATIONS.</head>
+                    <table rows="6" cols="5">
+                        <row role="label">
+                            <cell>Stations.</cell>
+                            <cell>Barom.</cell>
+                            <cell>Wind.</cell>
+                            <cell>Temp.</cell>
+                            <cell>State of Sea</cell>
+                        </row>
+                        <row>
+                            <cell>Trieste</cell>
+                            <cell>762.7</cell>
+                            <cell>Calm</cell>
+                            <cell>27</cell>
+                            <cell>Calm</cell>
+                        </row>
+                        <row>
+                            <cell>Malta</cell>
+                            <cell>762.9</cell>
+                            <cell>Almost calm</cell>
+                            <cell>28</cell>
+                            <cell>Very slight</cell>
+                        </row>
+                        <row>
+                            <cell>Brindisi</cell>
+                            <cell>760.6</cell>
+                            <cell>Light</cell>
+                            <cell>28</cell>
+                            <cell>Calm</cell>
+                        </row>
+                        <row>
+                            <cell>Athens</cell>
+                            <cell>759.1</cell>
+                            <cell>Fresh</cell>
+                            <cell>28</cell>
+                            <cell>Rough</cell>
+                        </row>
+                        <row>
+                            <cell>amassol</cell>
+                            <cell>755.4</cell>
+                            <cell>Almost calm</cell>
+                            <cell>33</cell>
+                            <cell>Very slight</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <head>PHASES OF THE MOON. THE SUN.</head>
+                    <table rows="4" cols="5">
+
+                        <row role="label">
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>Rises a.m.</cell>
+                            <cell>Sets p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>July 1</cell>
+                            <cell>New Moon</cell>
+                            <cell>7.50 p.m.</cell>
+                            <cell>4.58</cell>
+                            <cell>7.0</cell>
+                        </row>
+                        <row>
+                            <cell>" 9</cell>
+                            <cell>First Quarter</cell>
+                            <cell>7.48 p.m.</cell>
+                            <cell>5.1</cell>
+                            <cell>6.59</cell>
+                        </row>
+                        <row>
+                            <cell>" 16</cell>
+                            <cell>Fun Moon</cell>
+                            <cell>5.32 p.m.</cell>
+                            <cell>5.4</cell>
+                            <cell>6.56</cell>
+                        </row>
+                        <row>
+                            <cell>" 24</cell>
+                            <cell>Last Quarter</cell>
+                            <cell>3. 9 p.m.</cell>
+                            <cell>5.8</cell>
+                            <cell>6.53</cell>
+                        </row>
+                    </table>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
