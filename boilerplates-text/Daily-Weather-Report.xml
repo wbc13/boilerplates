@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -49,19 +49,19 @@
                         <row>
                             <cell rows="4">During 24 hours ending ? a.m.</cell>
                             <cell>Max. Temp in the shade</cell>
-                            <cell>29.5</cell>
+                            <cell><measure unit="degC">29.5</measure></cell>
                         </row>
                         <row>
                             <cell>Min. Temp in the shade</cell>
-                            <cell>21.0</cell>
+                            <cell><measure unit="degC">21.0</measure></cell>
                         </row>
                         <row>
                             <cell>Humidity</cell>
-                            <cell>76.0</cell>
+                            <cell><measure type="percentage">76.0</measure></cell>
                         </row>
                         <row>
                             <cell>Rainfall</cell>
-                            <cell>—</cell>
+                            <cell><measure unit="mm">—</measure></cell>
                         </row>
                     </table>
                 </div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -35,51 +35,51 @@
                 <p>à la</p>
                 <p>LIVERPOOL COTTON ASSOCIATION</p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 9h. 45 a.m.) </p>
-                <table rows="4" cols="3">
-                    <row>
+                <table rows="5" cols="2">
+                    <row role="label">
                         <cell>Tal.</cell>
-                        <cell>FILL</cell>
-                        <cell>Livraison Juillet</cell>
+                        <cell>Livraison</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Août</cell>
+                        <cell>Juillet</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Novembre</cell>
+                        <cell>Août</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Janvier</cell>
+                        <cell>Novembre</cell>
+                    </row>
+                    <row>
+                        <cell>FILL</cell>
+                        <cell>Janvier</cell>
                     </row>
                 </table>
                 <p>Marché ferme</p>
                 <p>Arrivages de ce jour, à Minet-el-Basaal, cantars FILL</p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 12h. 45 p.m.)</p>
-                <table rows="4" cols="3">
-                    <row>
+                <table rows="5" cols="2">
+                    <row role="label">
                         <cell>Tal.</cell>
-                        <cell>FILL</cell>
-                        <cell>Livraison Juillet</cell>
+                        <cell>Livraison</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Août</cell>
+                        <cell>Juillet</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Novembre</cell>
+                        <cell>Août</cell>
                     </row>
                     <row>
-                        <cell>"</cell>
                         <cell>FILL</cell>
-                        <cell>" Janvier</cell>
+                        <cell>Novembre</cell>
+                    </row>
+                    <row>
+                        <cell>FILL</cell>
+                        <cell>Janvier</cell>
                     </row>
                 </table>
                 <p>Marché ferme </p>

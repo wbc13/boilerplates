@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -27,25 +27,69 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div type="article" scope="financial">
-    <head>BOURSE KHEDIVIALE</head>
-    <p>CONTRATS</p>
-    <p>Fluctuations de 9h.30 à lh. p.m.</p>
-    <p><hi rend="italic">Cotons F.G.F.Br.</hi></p>
-    <p>Dans la matinée; prix plus haut pour juillet tal. 14 7/ à —/— ; plus bas pour
-        juillet 14 3/4 à — /—. </p>
-    <p>
-        <hi rend="italic">Grains de coton</hi>
-    </p>
-    <p>Dans la matinée ; prix plus haut pour juil. P.T. 59 10/40 à —/—: plus bas
-        pour jail. 58 35/40 à —/—. </p>
-    <p>Remarques</p>
-    <p>(De Midi à 1h. p.m.)</p>
-    <p>Cotons.—FILL</p>
-    <p>Graines de coton.—FILL</p>
-    <p>Fèves.—FILL</p>
-    <p>Bourse Khédviale, le 11 juillet 1905.</p>
-</div>
+        <body>
+            <div type="article" scope="financial">
+                <head>BOURSE KHEDIVIALE</head>
+                <p>CONTRATS</p>
+                <p>Fluctuations de 9h.30 à 1h. p.m.</p>
+                <p>
+                    <hi rend="italic">Cotons F.G.F.Br.</hi>
+                </p>
+                <p>Dans la matinée; prix plus haut pour juillet tal. 14 7/ à —/— ; plus bas pour
+                    juillet 14 3/4 à — /—. </p>
+                <p>
+                    <hi rend="italic">Grains de coton</hi>
+                </p>
+                <p>Dans la matinée ; prix plus haut pour juil. P.T. 59 10/40 à —/—: plus bas pour
+                    juil. 58 35/40 à —/—. </p>
+                <p>Remarques</p>
+                <p>(De Midi à 1h. p.m.)</p>
+                <p>Cotons.—FILL</p>
+                <p>Graines de coton.—FILL</p>
+                <table rows="2" cols="4">
+                    <head>Bateaux partis:</head>
+                    <row role="label">
+                        <cell>Juillet</cell>
+                        <cell>S.S.</cell>
+                        <cell>pour</cell>
+                        <cell>Ton.</cell>
+                    </row>
+                    <row>
+                        <cell>7</cell>
+                        <cell>Grecian Prince</cell>
+                        <cell>Dunkerque</cell>
+                        <cell>250</cell>
+                    </row>
+                </table>
+                <table rows="2" cols="3">
+                    <head>Bateaux sous chargement:</head>
+                    <row role="label">
+                        <cell>S.S.</cell>
+                        <cell>pour</cell>
+                        <cell>Ton.</cell>
+                    </row>
+                    <row>
+                        <cell>Seti</cell>
+                        <cell>Liverpool</cell>
+                        <cell>100</cell>
+                    </row>
+                </table>
+                <table rows="2" cols="3">
+                    <head>Bateaux attendus:</head>
+                    <row role="label">
+                        <cell>S.S.</cell>
+                        <cell>pour</cell>
+                        <cell>Ton.</cell>
+                    </row>
+                    <row>
+                        <cell>Assiout</cell>
+                        <cell>Hull</cell>
+                        <cell>1000</cell>
+                    </row>
+                </table>
+                <p>Fèves.—FILL</p>
+                <p>Bourse Khédviale, le 11 juillet 1905.</p>
+            </div>
         </body>
     </text>
 </TEI>
