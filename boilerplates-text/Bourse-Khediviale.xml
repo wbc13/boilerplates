@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://myweb.fsu.edu/whanley/eg/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -44,8 +44,8 @@
                     juil. 58 35/40 à —/—. </p>
                 <p>Remarques</p>
                 <p>(De Midi à 1h. p.m.)</p>
-                <p>Cotons.—FILL</p>
-                <p>Graines de coton.—FILL</p>
+                <p>Cotons.—<!-- Fill --></p>
+                <p>Graines de coton.—<!-- Fill --></p>
                 <table rows="2" cols="4">
                     <head>Bateaux partis:</head>
                     <row role="label">
@@ -58,7 +58,7 @@
                         <cell>7</cell>
                         <cell>Grecian Prince</cell>
                         <cell>Dunkerque</cell>
-                        <cell>250</cell>
+                        <cell><measure>250</measure></cell>
                     </row>
                 </table>
                 <table rows="2" cols="3">
@@ -87,7 +87,7 @@
                         <cell>1000</cell>
                     </row>
                 </table>
-                <p>Fèves.—FILL</p>
+                <p>Fèves.—<!-- Fill --></p>
                 <p>Bourse Khédviale, le 11 juillet 1905.</p>
             </div>
         </body>
