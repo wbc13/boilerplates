@@ -217,7 +217,8 @@
                         <cell><measure>3,000</measure></cell>
                     </row>
                     <row role="label">
-                        <cell cols="4">London, July 11</cell>
+                        <cell cols="4"><placeName>London</placeName>, <date when="1905-07-08">July
+                                8</date>.</cell>
                     </row>
                     <row>
                         <cell>Consols (August)</cell>
@@ -239,7 +240,27 @@
                     </row>
                     <row role="label">
                         <cell cols="4"><placeName>New-York</placeName>, <date when="1904-07-08">July
-                                8</date></cell>
+                                8</date>.</cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Stock at all U.-S. ports</cell>
+                        <cell>bales</cell>
+                        <cell><measure>380,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Week's receipts at all U.-S. ports</cell>
+                        <cell>bales</cell>
+                        <cell><measure>80,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Week's export to Great Britain</cell>
+                        <cell>bales</cell>
+                        <cell><measure>40,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Week's export to Continent</cell>
+                        <cell>bales</cell>
+                        <cell><measure>20,000</measure></cell>
                     </row>
                     <row>
                         <cell>Spot Cotton... </cell>
@@ -284,50 +305,50 @@
                         <cell><measure>11,000</measure></cell>
                     </row>
                     <row role="label">
-                        <cell cols="4"><placeName>Liverpool</placeName>, <date when="1905-07-11"
-                                >July 11</date></cell>
+                        <cell cols="4"><placeName>Liverpool</placeName>, <date when="1905-07-08"
+                                >July 8</date>.</cell>
                     </row>
                     <row>
                         <cell>American futures </cell>
                         <cell>(August-September)</cell>
                         <cell/>
-                        <cell><measure>5.90</measure></cell>
+                        <cell><measure>5.71</measure></cell>
                     </row>
                     <row>
                         <cell>Egypt fully good fair, </cell>
-                        <cell>delivery(July)</cell>
+                        <cell>delivery (July)</cell>
                         <cell/>
                         <cell><measure>7 53/64</measure></cell>
                     </row>
                     <row>
-                        <cell>" " " " </cell>
-                        <cell>" (Aug.)</cell>
+                        <cell>,, ,, ,, ,,</cell>
+                        <cell>,, (Aug.)</cell>
                         <cell/>
                         <cell><measure>7 53/64</measure></cell>
                     </row>
                     <row>
-                        <cell>" " " " </cell>
-                        <cell>" (Oct.)</cell>
+                        <cell>,, ,, ,, ,,</cell>
+                        <cell>,, (Oct.)</cell>
                         <cell/>
                         <cell><measure>7 52/64</measure></cell>
                     </row>
                     <row>
-                        <cell>" " " " </cell>
-                        <cell>" (Nov.)</cell>
+                        <cell>,, ,, ,, ,,</cell>
+                        <cell>,, (Nov.)</cell>
                         <cell/>
                         <cell><measure>7 48/64</measure></cell>
                     </row>
                     <row role="label">
-                        <cell cols="4"><placeName>London</placeName>, <date when="1905-07-11">July
-                                11</date></cell>
+                        <cell cols="4"><placeName>London</placeName>, <date when="1905-07-08">July
+                                8</date>.</cell>
                     </row>
                     <row>
                         <cell cols="3">Private discount (3 month bills)</cell>
-                        <cell><measure>1 7/8 %</measure></cell>
+                        <cell><measure>1 3/4 %</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Bar Silver (per oz d.)</cell>
-                        <cell><measure>27 2/16</measure></cell>
+                        <cell><measure>27 1/16</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Consols (August)</cell>
@@ -335,15 +356,15 @@
                     </row>
                     <row>
                         <cell cols="3">Rio Tinto</cell>
-                        <cell><measure>63 3/8</measure></cell>
+                        <cell><measure>62 7/8</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Rand Mines New</cell>
-                        <cell><measure> 9 --</measure></cell>
+                        <cell><measure>8 3/4</measure></cell>
                     </row>
                     <row>
                         <cell cols="3"> Egyptian Unified</cell>
-                        <cell><measure>105 ¼</measure></cell>
+                        <cell><measure>105 3/8</measure></cell>
                     </row>
                     <row>
                         <cell cols="3"> " Railway</cell>
@@ -359,11 +380,11 @@
                     </row>
                     <row>
                         <cell cols="3">Turkish Unified</cell>
-                        <cell><measure>88 --</measure></cell>
+                        <cell><measure>87 3/4</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Italian Rents 4%</cell>
-                        <cell><measure>104 ¼</measure></cell>
+                        <cell><measure>103 3/4</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Ottoman Bank</cell>
@@ -371,11 +392,11 @@
                     </row>
                     <row>
                         <cell cols="3">National Bank of Egypt</cell>
-                        <cell><measure>26 3/8</measure></cell>
+                        <cell><measure>26 1/2</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Daira Sanieh</cell>
-                        <cell><measure>101 ½</measure></cell>
+                        <cell><measure>101 —</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">New Daira</cell>
@@ -387,11 +408,11 @@
                     </row>
                     <row>
                         <cell cols="3">Greek Rent 4%</cell>
-                        <cell><measure>41 ½</measure></cell>
+                        <cell><measure>41 1/4</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Chartereds of S. Africa</cell>
-                        <cell><measure>1 13/16</measure></cell>
+                        <cell><measure>1 12/16</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Agricultural Bank</cell>
@@ -403,11 +424,11 @@
                     </row>
                     <row>
                         <cell cols="3">Nile Valley Gold Mine. New</cell>
-                        <cell><measure>1 --</measure></cell>
+                        <cell><measure>1 1/4</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">The Western Oasis Corporation</cell>
-                        <cell><measure>1/2</measure> premium </cell>
+                        <cell><measure>3/8</measure> premium </cell>
                     </row>
                     <row>
                         <cell cols="3">Delta Light (Bearer shares) </cell>
@@ -415,14 +436,39 @@
                     </row>
                     <row>
                         <cell cols="3">Egypt, cot. seed to Hull (July)</cell>
-                        <cell><measure>5 12/16</measure> nominal</cell>
+                        <cell><measure>5 15/16</measure> sellers</cell>
                     </row>
                     <row>
                         <cell cols="3">German Beet Sugar (July) </cell>
-                        <cell><measure>10/1¼</measure></cell>
+                        <cell><measure>10/6</measure></cell>
                     </row>
                     <row role="label">
-                        <cell cols="4">Paris, July 11</cell>
+                        <cell cols="2">Bank Returns</cell>
+                        <cell>This week.</cell>
+                        <cell>Last week.</cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Notes reserves</cell>
+                        <cell>£<measure unit="£">24,538,000</measure></cell>
+                        <cell>£<measure unit="£">24,412,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Other securities</cell>
+                        <cell>£<measure unit="£">28,992,000</measure></cell>
+                        <cell>£<measure unit="£">36,375,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Bullion</cell>
+                        <cell>£<measure unit="£">38,204,000</measure></cell>
+                        <cell>£<measure unit="£">38,462,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="3">Proportion of reserve to liabilities</cell>
+                        <cell><measure>48 5/8 %</measure></cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="4"><placeName>Paris</placeName>, <date when="1905-07-08">July
+                                8</date>.</cell>
                     </row>
                     <row>
                         <cell cols="3">Lots Turcs</cell>
@@ -430,7 +476,7 @@
                     </row>
                     <row>
                         <cell cols="3">Crédit Lyonnais</cell>
-                        <cell><measure>1091 —</measure></cell>
+                        <cell><measure>1088 —</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Ottoman Bank</cell>
@@ -438,23 +484,23 @@
                     </row>
                     <row>
                         <cell cols="3">Cheques on London</cell>
-                        <cell><measure>25.15½</measure></cell>
+                        <cell><measure>25.14</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Sugar White No. 3 (July)</cell>
-                        <cell><measure>30 ½</measure></cell>
+                        <cell><measure>31 —</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Crédit Foncier Egyptien</cell>
-                        <cell><measure>814 —</measure></cell>
+                        <cell><measure>813 —</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Banque d'Athènes</cell>
-                        <cell><measure>124 —</measure></cell>
+                        <cell><measure>122 —</measure></cell>
                     </row>
                     <row>
                         <cell cols="3">Land Bank of Egypt</cell>
-                        <cell><measure>240 —</measure></cell>
+                        <cell><measure>239 —</measure></cell>
                     </row>
                 </table>
             </div>
