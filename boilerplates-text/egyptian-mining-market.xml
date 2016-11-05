@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Primes des Contrats template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-11-03">November 3, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>EGYPTIAN MINING MARKET.</head>
+                <table cols="4">
+                    <row role="label">
+                        <cell>Name of Company </cell>
+                        <cell>Making up Prices <date when="1905-06-26">June 26</date> </cell>
+                        <cell cols="2">Latest Prices <date when="1905-06-30">June 30</date></cell>
+                    </row>
+                    <row>
+                        <cell>Central Egypt Exploration</cell>
+                        <cell><measure>1 1/8</measure></cell>
+                        <cell><measure>1 1/16</measure></cell>
+                        <cell><measure>1 3/16</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Corporation of W. Egypt</cell>
+                        <cell><measure>7/16</measure>pm</cell>
+                        <cell><measure>17/32</measure></cell>
+                        <cell><measure>19/32</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Egypt. Mines Exlpor. Synd.</cell>
+                        <cell><measure>13/</measure></cell>
+                        <cell><measure>13/</measure></cell>
+                        <cell><measure>13/3</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Egypt. Sudan Minerals</cell>
+                        <cell><measure>1/8</measure></cell>
+                        <cell><measure>1/16</measure></cell>
+                        <cell><measure>3/16</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Egypt. and Sudan Mining Synd.</cell>
+                        <cell><measure>1 11/16</measure></cell>
+                        <cell><measure>1 5/8</measure></cell>
+                        <cell><measure>1 3/4</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Nile Goldfields</cell>
+                        <cell><measure>½</measure></cell>
+                        <cell><measure>¼</measure></cell>
+                        <cell><measure>¾</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Nile Valley Block E</cell>
+                        <cell><measure>¾</measure></cell>
+                        <cell><measure>¾</measure></cell>
+                        <cell><measure>7/8</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Nile Valley (New)</cell>
+                        <cell><measure>1 ¼</measure></cell>
+                        <cell><measure>1 ¼</measure></cell>
+                        <cell><measure>1 3/8</measure></cell>
+                    </row>
+                    <row>
+                        <cell>North Nile Valley</cell>
+                        <cell><measure>3/8</measure></cell>
+                        <cell><measure>3/16</measure></cell>
+                        <cell><measure>5/16</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Nubia (Sudan) Dev. Synd. (10s. pd.)</cell>
+                        <cell><measure>15/16</measure></cell>
+                        <cell><measure>7/8</measure></cell>
+                        <cell><measure>1</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Sudan Explor. (10s. Shares)</cell>
+                        <cell><measure>3/</measure></cell>
+                        <cell><measure>2/6</measure></cell>
+                        <cell><measure>3/6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Sudan Mines</cell>
+                        <cell><measure>½</measure></cell>
+                        <cell><measure>3/8</measure></cell>
+                        <cell><measure>5/8</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Urn Rus Gold Mines</cell>
+                        <cell><measure>1/39</measure> pm</cell>
+                        <cell>par</cell>
+                        <cell><measure>1/16</measure>pm</cell>
+                    </row>
+                    <row>
+                        <cell>United African Explor.</cell>
+                        <cell><measure>1 5/16</measure></cell>
+                        <cell><measure>1 ¼</measure></cell>
+                        <cell><measure>1 3/8</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
