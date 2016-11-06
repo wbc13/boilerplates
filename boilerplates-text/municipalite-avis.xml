@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Municipalite Avis template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" scope="municipality">
+                <head>Municipalité d'Alexandrie</head>
+                <div type="item">
+                    <head>AVIS</head>
+                    <p>La Municipalité met en adjudication les travaux de prolongement de <placeName>la rue des
+                        Parcs au sud de l'ancien cimetière israélite jusqu’au fort el Nahas</placeName>.</p>
+                    <p>Le cautionnement est fixé à LE. <measure unit="LE">15</measure>.</p>
+                    <p>Le cahier des charges est déposé an Bureau de la Voirie où il peut-être
+                        consulté par les intéressés tous les jours de 9 h. à midi, les jours fériés
+                        exceptés.</p>
+                    <p>Les offres devront être adressées sous pli cacheté à Monsieur
+                        l'Administrateur de la Municipalité avant le <date>18 courant</date>.</p>
+                    <p>Elles pourront également être déposées en séance de la Délégation la même
+                        jour à 5h.p.m.</p>
+                    <p>L’enveloppe devra porter en outre la mention: “Soumission pour les travaux de
+                        prolongement de <placeName>la rue des Parcs</placeName>.”</p>
+                    <p>Le cautionnement ou le reçu d’une banque, d’après les conditions du cahier
+                        des charges, devra être remis séparément au Service de la Comptabilité
+                        Générale avant l'ouverture des offres et au plus tard <date>le 18 courant</date> à
+                        midi.</p>
+                    <p>Toute offre qui ne remplit pas les conditions ci-dessus sera écartée.</p>
+                    <p>L'Administrateur.</p>
+                    <p>(signé) W.P. Chataway.</p>
+                    <p>Alexandrie, <date>le 7 juillet 1905</date>.</p>
+                    <p>26216-3 3</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
