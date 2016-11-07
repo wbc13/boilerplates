@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Coals template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>COALS.</head>
+                <table>
+                    <head>Current prices per ton free on wagon.</head>
+                    <row role="label">
+                        <cell/>
+                        <cell>Per ton</cell>
+                        <cell>Shgs.</cell>
+                        <cell/>
+                        <cell>Shgs.</cell>
+                    </row>
+                    <row>
+                        <cell>Cardiff</cell>
+                        <cell>Best quality</cell>
+                        <cell><measure unit="sh">28 6</measure></cell>
+                        <cell>@</cell>
+                        <cell><measure unit="sh">34.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Newport</cell>
+                        <cell>Best quality</cell>
+                        <cell><measure unit="sh">22.9</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">38.8</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Newcastle</cell>
+                        <cell>Bothal</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Cowpen</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Hastings</cell>
+                        <cell><measure unit="sh">18.6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>West Hartley Main</cell>
+                        <cell><measure unit="sh">18 6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Scotch</cell>
+                        <cell>Merry's</cell>
+                        <cell><measure unit="sh">18 6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Bairds</cell>
+                        <cell><measure unit="sh">18 6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Dunlops</cell>
+                        <cell><measure unit="sh">18.6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Best Hamilton Ell</cell>
+                        <cell><measure unit="sh">18 6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Yorkshire</cell>
+                        <cell>Micklefield</cell>
+                        <cell><measure unit="sh">18.6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Liverpool</cell>
+                        <cell>Best Lancashire</cell>
+                        <cell><measure unit="sh">18 6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">19.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Patent Fuel</cell>
+                        <cell>Anchor</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Crown</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Star</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Arrow</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Swansea Graigola</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Swansea Atlantic</cell>
+                        <cell><measure unit="sh">23.3</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">24.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Newcastle</cell>
+                        <cell>Foundry Coke</cell>
+                        <cell><measure unit="sh">40.</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>„</cell>
+                        <cell>Gas Coke</cell>
+                        <cell><measure unit="sh">38.</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

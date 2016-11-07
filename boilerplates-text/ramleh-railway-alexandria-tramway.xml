@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Ramleh Railway &amp; Alexandria Tramway Company template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>RAMLEH RAILWAY COMPANY</head>
+                <table cols="4">
+                    <head>RECETTES</head>
+                    <row>
+                        <cell cols="4">du <date>dimanche 2 juil.</date> au <date>samedi 8 juil.
+                                1905</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Abonnements</cell>
+                        <cell>Carnets et Divers</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                    </row>
+                    <row>
+                        <cell>Année cour.</cell>
+                        <cell><measure unit="pt">98,682</measure></cell>
+                        <cell><measure unit="pt">31,825</measure></cell>
+                        <cell><measure unit="pt">25,277.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, der.</cell>
+                        <cell><measure unit="pt">89,299</measure></cell>
+                        <cell><measure unit="pt">30,221</measure></cell>
+                        <cell><measure unit="pt">5,135.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augment.</cell>
+                        <cell><measure unit="pt">9,388</measure></cell>
+                        <cell><measure unit="pt">1,604</measure></cell>
+                        <cell><measure unit="pt">20,142.</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="4">TOTAUX.—Année courante <measure unit="pt">155,784</measure>;
+                            année dérnière <measure unit="pt">124,655</measure> ; Augmentation
+                                <measure unit="pt">31,129</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="4">du <date>1er octobre 1904</date> au <date>samedi 8 juil
+                                1905</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Abonnements</cell>
+                        <cell>Carnets et Divers</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                    </row>
+                    <row>
+                        <cell>Année cour.</cell>
+                        <cell><measure unit="pt">2,732,224</measure></cell>
+                        <cell><measure unit="pt">324,640</measure></cell>
+                        <cell><measure unit="pt">538,089.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, der.</cell>
+                        <cell><measure unit="pt">2,526,351</measure></cell>
+                        <cell><measure unit="pt">696,378</measure></cell>
+                        <cell><measure unit="pt">227,502.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augment.</cell>
+                        <cell><measure unit="pt">205,893</measure></cell>
+                        <cell><measure unit="pt"/></cell>
+                        <cell><measure unit="pt">310,587.</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Diminuation</cell>
+                        <cell><measure unit="pt"/></cell>
+                        <cell><measure unit="pt">371,738</measure></cell>
+                        <cell><measure unit="pt"/></cell>
+                    </row>
+                    <row>
+                        <cell cols="4">TOTAUX.—Annéee courante <measure unit="pt"
+                                >3,594,953</measure> ; année dernière <measure unit="pt"
+                                >3,450,211</measure>; Augmentation <measure unit="pt"
+                                >144,742.</measure></cell>
+                    </row>
+                </table>
+                <table cols="4">
+                    <head>Alexandria tramway company</head>
+                    <row>
+                        <cell cols="4">du <date>dimanche 2 juil</date>, au <date>samedi 8 juil.
+                                1905</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Carnets et Divers</cell>
+                        <cell>Totaux</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                    </row>
+                    <row>
+                        <cell>Année cour.</cell>
+                        <cell><measure unit="pt">138,949.</measure></cell>
+                        <cell><measure unit="pt">23,761.5</measure></cell>
+                        <cell><measure unit="pt">162,710.5</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, der.</cell>
+                        <cell><measure unit="pt">126,884.9</measure></cell>
+                        <cell><measure unit="pt">22,880.</measure></cell>
+                        <cell><measure unit="pt">149,764.9</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augment.</cell>
+                        <cell><measure unit="pt">12,064.1</measure></cell>
+                        <cell><measure unit="pt">881.5</measure></cell>
+                        <cell><measure unit="pt">12,945.6</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="4">du <date>1er janvier</date> au <date>samedi 8 juil.
+                                1905</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Carnets et Divers</cell>
+                        <cell>Totaux</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                        <cell>P.T.</cell>
+                    </row>
+                    <row>
+                        <cell>Année cour.</cell>
+                        <cell><measure unit="pt">2,929,689.</measure></cell>
+                        <cell><measure unit="pt">313,110.2</measure></cell>
+                        <cell><measure unit="pt">3,247,799.2</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, der.</cell>
+                        <cell><measure unit="pt">2,568.891.2</measure></cell>
+                        <cell><measure unit="pt">264,982.</measure></cell>
+                        <cell><measure unit="pt">2,828,253.2</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augment.</cell>
+                        <cell><measure unit="pt">366,367.8</measure></cell>
+                        <cell><measure unit="pt">58,178.2</measure></cell>
+                        <cell><measure unit="pt">419,546.</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

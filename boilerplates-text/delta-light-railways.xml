@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Delta Light Railways
+                    template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>DELTA LIGHT RAILWAYS, Ltd.</head>
+                <table cols="5">
+                    <head>Traffic Returns</head>
+                    <row role="label">
+                        <cell/>
+                        <cell>The week ended <date>July 1 .05</date></cell>
+                        <cell>Same period*04.</cell>
+                        <cell>Inc.</cell>
+                        <cell>*Dec.</cell>
+                    </row>
+                    <row>
+                        <cell>Kilometres open</cell>
+                        <cell><measure unit="km">855</measure></cell>
+                        <cell><measure unit="km">813</measure></cell>
+                        <cell><measure unit="km">42</measure></cell>
+                        <cell>—</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                    </row>
+                    <row>
+                        <cell>Coaching</cell>
+                        <cell><measure unit="LE">1881</measure></cell>
+                        <cell><measure unit="LE">1639</measure></cell>
+                        <cell><measure unit="LE">242</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Goods and Sundries</cell>
+                        <cell><measure unit="LE">1223</measure></cell>
+                        <cell><measure unit="LE">864</measure></cell>
+                        <cell><measure unit="LE">359</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    
+                    <row>
+                        <cell>Total</cell>
+                        <cell><measure unit="LE">3104</measure></cell>
+                        <cell><measure unit="LE">2503</measure></cell>
+                        <cell><measure unit="LE">601</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Receipts per kilometres open</cell>
+                        <cell><measure unit="LE">3630</measure></cell>
+                        <cell><measure unit="LE">3079</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Total from commencement of half-year</cell>
+                        <cell><measure unit="LE">121506</measure></cell>
+                        <cell><measure unit="LE">114140</measure></cell>
+                        <cell><measure unit="LE">7366</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                </table>
+                <p>*Week ended <date>25th June 1904</date>.</p>
+                <table cols="5">
+                    <head>HELOUAN BRANCH</head>
+                    <row>
+                        <cell/>
+                        <cell>40</cell>
+                        <cell>40</cell>
+                        <cell>Increase</cell>
+                        <cell>Dec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure unit="LE">334</measure></cell>
+                        <cell><measure unit="LE">294</measure></cell>
+                        <cell><measure unit="LE">40</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure unit="LE">347</measure></cell>
+                        <cell><measure unit="LE">346</measure></cell>
+                        <cell><measure unit="LE">1</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure unit="LE">681</measure></cell>
+                        <cell><measure unit="LE">640</measure></cell>
+                        <cell><measure unit="LE">41</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure unit="LE">17035</measure></cell>
+                        <cell><measure unit="LE">15999</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Tot. from 1st Jan.</cell>
+                        <cell><measure unit="LE">21073</measure></cell>
+                        <cell><measure unit="LE">19732</measure></cell>
+                        <cell><measure unit="LE">1341</measure></cell>
+                        <cell><measure unit="LE">—</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

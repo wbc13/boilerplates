@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Nolis template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="financial">
+                <head>NOLIS</head>
+                <table cols="3">
+                    <row>
+                        <cell cols="5">HULL</cell>
+                    </row>
+                    <row>
+                        <cell>Céréales</cell>
+                        <cell>Shgs.</cell>
+                        <cell><measure unit="sh">1/3</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Tourteaux</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">5/6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Graines de coton</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">6/6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Oignons</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">LONDRES</cell>
+                    </row>
+                    <row>
+                        <cell>Céréales</cell>
+                        <cell>Shgs.</cell>
+                        <cell><measure unit="sh">1/6</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Tourteaux</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">6/</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Graines de coton</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">7/</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Oignons</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">POSTS DIRECTS</cell>
+                    </row>
+                    <row>
+                        <cell>Graines de coton</cell>
+                        <cell>Shgs.</cell>
+                        <cell><measure unit="sh">7/8</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="sh">7/6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Céréales</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">1/6</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">1/9</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">LIVERPOOL</cell>
+                    </row>
+                    <row>
+                        <cell>Coton</cell>
+                        <cell>Shgs.</cell>
+                        <cell><measure unit="sh">11/</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Céréales</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="sh">1/</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Tourteaux</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">6/</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Graines de coton</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="sh">7/</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Oignons</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="sh">—</measure>
+                        </cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="sh">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">CONTINENT (NANTES-DUNKERQUE)</cell>
+                        
+                    </row>
+                    <row>
+                        <cell>Graines de coton (Dunkerque)</cell>
+                        <cell>Fr.</cell>
+                        <cell><measure unit="fcs">10</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="fcs">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell> " " " (Nantes)</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">10</measure>
+                        </cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="fcs">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Fèves</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="fcs">10</measure>
+                        </cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="fcs">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Oignons</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="fcs">—</measure>
+                        </cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="fcs">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">MARSEILLE</cell>
+                    </row>
+                    <row>
+                        <cell>Fèves</cell>
+                        <cell>Fr.</cell>
+                        <cell>
+                            <measure unit="fcs">7</measure>
+                        </cell>
+                        <cell>à</cell>
+                        <cell><measure unit="fcs">8.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Graines de coton</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">7</measure>
+                        </cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="fcs">8.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="5">DESTINATIONS DIVERSES</cell>
+                    </row>
+                    <row>
+                        <cell>Coton : Odessa, Trieste, Venise, Gênes Marseille</cell>
+                        <cell>Fr.</cell>
+                        <cell><measure unit="fcs">2.—</measure></cell>
+                        <cell rows="5">par 100 kilog.</cell>
+                    </row>
+                    <row>
+                        <cell>Barcelone</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">2.50</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Le Havre</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">3.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Dunkerque</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">2.50</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Anvers</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">2.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Hambourg</cell>
+                        <cell>Fr.</cell>
+                        <cell><measure unit="fcs">20.—</measure> à <measure unit="fcs"
+                            >22.50</measure>
+                        </cell>
+                        <cell rows="4">par tonne poids</cell>
+                    </row>
+                    <row>
+                        <cell>St-Petersbourg</cell>
+                        <cell>"</cell>
+                        <cell>
+                            <measure unit="fcs">25.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>New-York</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="fcs">25.—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Bombay</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="fcs">30.—</measure></cell>
+                    </row>
+                </table>
+                <dateline>Alexandrie, le 13 juillet 1905</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

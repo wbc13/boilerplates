@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Association des Courtiers en Marchandises
+                    template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>ASSOCIATION DES COURTIERS EN MARCHANISES</head>
+                <p>Le comité de l'Association des Courtiers en Marchandises a fixé comme suit, pour
+                    ce jour, le prix de compensation extraordinaire : </p>
+                <p>Coton F.G.F.Br.</p>
+                <table rows="5" cols="5">
+                    <row>
+                        <cell>Novembre</cell>
+                        <cell>Tal.</cell>
+                        <cell><measure unit="tal">15 1/4</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="tal">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Janvier</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="tal">15 1/8</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Mars</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="tal">15 5/16</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Juillet</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="tal">14 13/16</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Août</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="tal">15 3/16</measure></cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">—</measure></cell>
+                    </row>
+                </table>
+                <p>Bourse Khédiviale, le <date>7 juillet 1905</date>.</p>
+                <p>N.B.—Dans cette liquidation sont comprises les opérations jusqu'à 1h. p.m. de ce
+                    jour.</p>
+                <p>Paiement <date>le lundi 10 courant</date>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
