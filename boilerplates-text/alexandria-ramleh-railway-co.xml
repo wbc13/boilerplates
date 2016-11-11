@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor><!-- William Crawford--></editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19"><!-- Enter today's date --></date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01"><!-- Saturday, January 14, 1905 --></date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section">
+                <div type="subsection">
+                    <head>Alexandria &amp; Ramleh Railway Co</head>
+                    <p>RECETTES</p>
+                    <p>du Dimanche ler jan. au Samedi jan. 1905</p>
+                    <p>
+                        <table rows="7" cols="4">
+                            <row>
+                                <cell/>
+                                <cell>Billets</cell>
+                                <cell>Abonnements</cell>
+                                <cell>Carnets et Divers</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>P.T.</cell>
+                                <cell>P.T.</cell>
+                                <cell>P.T.</cell>
+                            </row>
+                            <row>
+                                <cell>Annee Courante</cell>
+                                <cell>58,421</cell>
+                                <cell>—</cell>
+                                <cell>23,478</cell>
+                            </row>
+                            <row>
+                                <cell>" derniere</cell>
+                                <cell>58,973</cell>
+                                <cell>—</cell>
+                                <cell>6,756</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>———</cell>
+                                <cell>———</cell>
+                                <cell>————</cell>
+                            </row>
+                            <row>
+                                <cell>Augmentition</cell>
+                                <cell/>
+                                <cell/>
+                                <cell>16,717</cell>
+                            </row>
+                            <row>
+                                <cell>Diminution</cell>
+                                <cell>552</cell>
+                                <cell/>
+                                <cell/>
+                            </row>
+                        </table>
+                    </p>
+                    
+                    <p>TOTAUX.-Anne courante 81,891; anne derniere 63,729; Augmentation 16,165.</p>
+                    <p>——</p>
+                    <p>du lae octobre 1904 an samedi 7 jan. 1905</p>
+                </div>
+                <div type="subsection">
+                    <head>Alexandria Tramway Co</head>
+                    <p>RECETTES</p>
+                    <p>du Dimanche ler jan. au Samedi jan. 1905</p>
+                    <p>
+                        <table rows="6" cols="4">
+                            <row>
+                                <cell/>
+                                <cell>Billets</cell>
+                                <cell>Carnets et Divers</cell>
+                                <cell>Totaux</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>P.T.</cell>
+                                <cell>P.T.</cell>
+                                <cell>P.T.</cell>
+                            </row>
+                            <row>
+                                <cell>Annee Courante</cell>
+                                <cell>94,057.1</cell>
+                                <cell>11,870.</cell>
+                                <cell>105,427.1</cell>
+                            </row>
+                            <row>
+                                <cell>" derniere</cell>
+                                <cell>82,298.4</cell>
+                                <cell>5,580.</cell>
+                                <cell>87,878.4</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell>———</cell>
+                                <cell>———</cell>
+                                <cell>————</cell>
+                            </row>
+                            <row>
+                                <cell>Augmentition</cell>
+                                <cell>11,758.7</cell>
+                                <cell>5,790.</cell>
+                                <cell>17,548.7</cell>
+                            </row>
+                        </table>
+                    </p>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
